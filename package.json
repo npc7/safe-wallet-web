@@ -34,7 +34,7 @@
   },
   "resolutions": {
     "@web3-onboard/trezor/**/protobufjs": "^7.2.4",
-    "@safe-global/safe-deployments": "npm:@bugeta/safe-deployments"
+    "@safe-global/safe-deployments": "npm:@bugeta/safe-deployments@1.25.1"
   },
   "dependencies": {
     "@date-io/date-fns": "^2.15.0",
