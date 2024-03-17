@@ -3773,10 +3773,10 @@
   dependencies:
     semver "^7.3.7"
 
-"@safe-global/safe-deployments@^1.20.2", "@safe-global/safe-deployments@^1.25.0":
-  version "1.27.0"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.27.0.tgz#e074d88543d084764b8bef7e3bddd238ac0d6819"
-  integrity sha512-Fj6NW2JwSrC3vFIiheTRBGTAdZJSUtXk4rTkZgGoO8MnFM+pWU2pJU2rWzH3EYOXvrndxT2UxsiUIkTbmB2hkw==
+"@safe-global/safe-deployments@^1.20.2", "@safe-global/safe-deployments@^1.25.0", "@safe-global/safe-deployments@npm:@bugeta/safe-deployments":
+  version "1.33.0"
+  resolved "https://registry.yarnpkg.com/@bugeta/safe-deployments/-/safe-deployments-1.33.0.tgz#3af0dbed1f45fbd784f2f708d1db316bf3cbd499"
+  integrity sha512-Ehb2A5Z19ooBjJ6S6k6bHDZ0b6OcJOngNdg7ScvJyPj0D+dwNWRTi7h6tC+YtjmTlMxOpYRUO88f1F8UT0cVdw==
   dependencies:
     semver "^7.3.7"
 
