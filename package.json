@@ -40,7 +40,8 @@
     "@walletconnect/ethereum-provider": "^2.11.2",
     "@safe-global/safe-core-sdk-types/**/ethers": "^6.10.0",
     "@safe-global/protocol-kit/**/ethers": "^6.10.0",
-    "@safe-global/api-kit/**/ethers": "^6.10.0"
+    "@safe-global/api-kit/**/ethers": "^6.10.0",
+    "@safe-global/safe-deployments": "npm:@bugeta/safe-deployments"
   },
   "dependencies": {
     "@ducanh2912/next-pwa": "^9.7.1",
